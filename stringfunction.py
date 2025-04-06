@@ -32,6 +32,9 @@ print(text8.endswith("Java"))
 text9 = "banana"
 print(text9.count("a"))
 
+text9 = "banana"
+print(text9.count("a"))
+
 
 
 
